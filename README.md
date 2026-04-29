@@ -43,6 +43,3 @@ A structured deep-dive into SQL concepts — from core querying to advanced anal
 
 
 
----
-
-*Part of my data engineering / analytics learning journey.*
